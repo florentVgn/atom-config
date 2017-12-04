@@ -1,0 +1,59 @@
+{
+  "_from": "file:/tmp/d-1171028-2521-z1ohv0.kwdhd/package.tgz",
+  "_id": "atom-python-run@0.9.5",
+  "_inBundle": false,
+  "_integrity": "sha1-H3EDwuuqKiqL1POneg9We58XcME=",
+  "_location": "/atom-python-run",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "file",
+    "where": "/tmp/apm-install-dir-1171028-2521-nhz3dt.djxt8",
+    "raw": "/tmp/d-1171028-2521-z1ohv0.kwdhd/package.tgz",
+    "rawSpec": "/tmp/d-1171028-2521-z1ohv0.kwdhd/package.tgz",
+    "saveSpec": "file:/tmp/d-1171028-2521-z1ohv0.kwdhd/package.tgz",
+    "fetchSpec": "/tmp/d-1171028-2521-z1ohv0.kwdhd/package.tgz"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "/tmp/d-1171028-2521-z1ohv0.kwdhd/package.tgz",
+  "_spec": "/tmp/d-1171028-2521-z1ohv0.kwdhd/package.tgz",
+  "_where": "/tmp/apm-install-dir-1171028-2521-nhz3dt.djxt8",
+  "bugs": {
+    "url": "https://github.com/foreshadow/atom-python-run/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Run a python source file.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/foreshadow/atom-python-run#readme",
+  "keywords": [
+    "python"
+  ],
+  "license": "MIT",
+  "main": "./lib/atom-python-run.js",
+  "name": "atom-python-run",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foreshadow/atom-python-run.git"
+  },
+  "version": "0.9.5",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".js": [
+        "lib/atom-python-run.js",
+        "lib/terminal.js",
+        "lib/test.js"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_from": "file:/tmp/d-11796-19116-viqyry.hp3ag/package.tgz",
+  "_id": "snow-dark-syntax@0.1.1",
+  "_inBundle": false,
+  "_integrity": "sha1-wLd/QciGgQB7I8MoQ6WRqUgzbCg=",
+  "_location": "/snow-dark-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "file",
+    "where": "/tmp/apm-install-dir-11796-19116-y4g3x7.v2s1r",
+    "raw": "/tmp/d-11796-19116-viqyry.hp3ag/package.tgz",
+    "rawSpec": "/tmp/d-11796-19116-viqyry.hp3ag/package.tgz",
+    "saveSpec": "file:/tmp/d-11796-19116-viqyry.hp3ag/package.tgz",
+    "fetchSpec": "/tmp/d-11796-19116-viqyry.hp3ag/package.tgz"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "/tmp/d-11796-19116-viqyry.hp3ag/package.tgz",
+  "_spec": "/tmp/d-11796-19116-viqyry.hp3ag/package.tgz",
+  "_where": "/tmp/apm-install-dir-11796-19116-y4g3x7.v2s1r",
+  "bugs": {
+    "url": "https://github.com/SnowJambi/snow-dark-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A dark syntax that's easy on the eyes.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/SnowJambi/snow-dark-syntax#readme",
+  "keywords": [
+    "snow",
+    "dark",
+    "syntax",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "snow-dark-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnowJambi/snow-dark-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.1.1",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_from": "file:/tmp/d-11796-18989-lkxejp.nkjsd/package.tgz",
+  "_id": "one-dark-vivid-syntax@1.8.0",
+  "_inBundle": false,
+  "_integrity": "sha1-wjaoXDPp9ovMdSdCKUrCwHWeDN8=",
+  "_location": "/one-dark-vivid-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "file",
+    "where": "/tmp/apm-install-dir-11796-18989-11idryo.6lw2",
+    "raw": "/tmp/d-11796-18989-lkxejp.nkjsd/package.tgz",
+    "rawSpec": "/tmp/d-11796-18989-lkxejp.nkjsd/package.tgz",
+    "saveSpec": "file:/tmp/d-11796-18989-lkxejp.nkjsd/package.tgz",
+    "fetchSpec": "/tmp/d-11796-18989-lkxejp.nkjsd/package.tgz"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "/tmp/d-11796-18989-lkxejp.nkjsd/package.tgz",
+  "_spec": "/tmp/d-11796-18989-lkxejp.nkjsd/package.tgz",
+  "_where": "/tmp/apm-install-dir-11796-18989-11idryo.6lw2",
+  "bugs": {
+    "url": "https://github.com/simurai/one-dark-vivid-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A more vivid One Dark Syntax theme",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  },
+  "homepage": "https://github.com/simurai/one-dark-vivid-syntax#readme",
+  "keywords": [
+    "vivid",
+    "dark",
+    "blue",
+    "syntax"
+  ],
+  "license": "MIT",
+  "name": "one-dark-vivid-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simurai/one-dark-vivid-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "1.8.0",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

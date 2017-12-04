@@ -1,0 +1,61 @@
+{
+  "_from": "file:/tmp/d-117109-10583-kug142.ujhj/package.tgz",
+  "_id": "python-tools@0.6.9",
+  "_inBundle": false,
+  "_integrity": "sha1-26biqIiZcRQLIPFDyFNeawVKHfA=",
+  "_location": "/python-tools",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "file",
+    "where": "/tmp/apm-install-dir-117109-10583-1t34dk5.2fw2",
+    "raw": "/tmp/d-117109-10583-kug142.ujhj/package.tgz",
+    "rawSpec": "/tmp/d-117109-10583-kug142.ujhj/package.tgz",
+    "saveSpec": "file:/tmp/d-117109-10583-kug142.ujhj/package.tgz",
+    "fetchSpec": "/tmp/d-117109-10583-kug142.ujhj/package.tgz"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "/tmp/d-117109-10583-kug142.ujhj/package.tgz",
+  "_spec": "/tmp/d-117109-10583-kug142.ujhj/package.tgz",
+  "_where": "/tmp/apm-install-dir-117109-10583-1t34dk5.2fw2",
+  "activationCommands": {},
+  "bugs": {
+    "url": "https://github.com/MichaelAquilina/python-tools/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Goto definition, show usages, refactor/rename and more for python files",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/MichaelAquilina/python-tools#readme",
+  "keywords": [
+    "python",
+    "refactor",
+    "jedi",
+    "tools"
+  ],
+  "license": "MIT",
+  "main": "./lib/python-tools",
+  "name": "python-tools",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelAquilina/python-tools.git"
+  },
+  "version": "0.6.9",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".coffee": [
+        "lib/python-tools.coffee"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

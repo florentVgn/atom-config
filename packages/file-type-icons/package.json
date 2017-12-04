@@ -1,0 +1,60 @@
+{
+  "_from": "file:/tmp/d-117114-19534-s6t5pq.79ba/package.tgz",
+  "_id": "file-type-icons@1.3.4",
+  "_inBundle": false,
+  "_integrity": "sha1-bGLpxKQH/jDw+e+JyGAwf45dMNw=",
+  "_location": "/file-type-icons",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "file",
+    "where": "/tmp/apm-install-dir-117114-19534-11k35eo.layz",
+    "raw": "/tmp/d-117114-19534-s6t5pq.79ba/package.tgz",
+    "rawSpec": "/tmp/d-117114-19534-s6t5pq.79ba/package.tgz",
+    "saveSpec": "file:/tmp/d-117114-19534-s6t5pq.79ba/package.tgz",
+    "fetchSpec": "/tmp/d-117114-19534-s6t5pq.79ba/package.tgz"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "/tmp/d-117114-19534-s6t5pq.79ba/package.tgz",
+  "_spec": "/tmp/d-117114-19534-s6t5pq.79ba/package.tgz",
+  "_where": "/tmp/apm-install-dir-117114-19534-11k35eo.layz",
+  "author": {
+    "name": "Lee Dohm",
+    "email": "lee@lee-dohm.com"
+  },
+  "bugs": {
+    "url": "https://github.com/lee-dohm/file-type-icons/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Changes the icon for files in the Tree View and Tabs to reflect the file's type",
+  "engines": {
+    "atom": ">=1.6.0 <2.0.0"
+  },
+  "homepage": "https://github.com/lee-dohm/file-type-icons#readme",
+  "keywords": [
+    "file",
+    "type",
+    "icons",
+    "tree-view",
+    "tabs"
+  ],
+  "license": "MIT",
+  "name": "file-type-icons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lee-dohm/file-type-icons.git"
+  },
+  "version": "1.3.4",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
