@@ -1,0 +1,48 @@
+{
+  "_from": "file:/tmp/d-117115-14262-1ts1vuq.e0km/package.tgz",
+  "_id": "codeigniter@0.3.2",
+  "_inBundle": false,
+  "_integrity": "sha1-VaMUNI2h2KYpFj/SKMXCtkqrl0c=",
+  "_location": "/codeigniter",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "file",
+    "where": "/tmp/apm-install-dir-117115-14262-1nl0207.v01q",
+    "raw": "/tmp/d-117115-14262-1ts1vuq.e0km/package.tgz",
+    "rawSpec": "/tmp/d-117115-14262-1ts1vuq.e0km/package.tgz",
+    "saveSpec": "file:/tmp/d-117115-14262-1ts1vuq.e0km/package.tgz",
+    "fetchSpec": "/tmp/d-117115-14262-1ts1vuq.e0km/package.tgz"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "/tmp/d-117115-14262-1ts1vuq.e0km/package.tgz",
+  "_spec": "/tmp/d-117115-14262-1ts1vuq.e0km/package.tgz",
+  "_where": "/tmp/apm-install-dir-117115-14262-1nl0207.v01q",
+  "bugs": {
+    "url": "https://github.com/anggriyulio/codeigniter-atom/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Codeigniter snippets for Atom Editor",
+  "engines": {
+    "atom": ">=0.174.0"
+  },
+  "homepage": "https://github.com/anggriyulio/codeigniter-atom#readme",
+  "name": "codeigniter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anggriyulio/codeigniter-atom.git"
+  },
+  "version": "0.3.2",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
