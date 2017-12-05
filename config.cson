@@ -1,4 +1,9 @@
 "*":
+  "atom-autocomplete-php":
+    binComposer: "/usr/composer"
+  "atom-ide-ui":
+    use:
+      "atom-ide-diagnostics-ui": false
   core:
     audioBeep: false
     closeDeletedFileTabs: true
