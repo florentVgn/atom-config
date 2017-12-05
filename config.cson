@@ -3,24 +3,19 @@
     audioBeep: false
     closeDeletedFileTabs: true
     closeEmptyWindows: false
-    disabledPackages: [
-      "Hydrogen"
-    ]
     openEmptyEditorOnStart: false
-    projectHome: "/home/florent/atom-projects"
+    projectHome: "/home/florent/Development"
     restorePreviousWindowsOnStart: "no"
     telemetryConsent: "no"
     themes: [
-      "one-dark-ui"
+      "glacier-dark-ui"
       "tinacious-design-syntax"
     ]
   editor:
     fontSize: 12
-    lineHeight: 1.6
-    preferredLineLength: 100
+    preferredLineLength: 120
     scrollPastEnd: true
     showIndentGuide: true
-    softTabs: false
     tabLength: 4
   "exception-reporting":
     userId: "d48158ee-4376-4a32-9721-d56a9c6ac0f1"
