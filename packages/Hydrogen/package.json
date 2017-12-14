@@ -1,5 +1,5 @@
 {
-  "_from": "file:/tmp/d-117115-11040-13y6vy2.4a3t/package.tgz",
+  "_from": "file:/tmp/d-1171114-6779-5w79th.ggffl/package.tgz",
   "_id": "Hydrogen@2.1.1",
   "_inBundle": false,
   "_integrity": "sha1-t66PP3TeWMagVFXLM8NHedY2MHw=",
@@ -7,18 +7,18 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "file",
-    "where": "/tmp/apm-install-dir-117115-11040-2l1yrr.6be97",
-    "raw": "/tmp/d-117115-11040-13y6vy2.4a3t/package.tgz",
-    "rawSpec": "/tmp/d-117115-11040-13y6vy2.4a3t/package.tgz",
-    "saveSpec": "file:/tmp/d-117115-11040-13y6vy2.4a3t/package.tgz",
-    "fetchSpec": "/tmp/d-117115-11040-13y6vy2.4a3t/package.tgz"
+    "where": "/tmp/apm-install-dir-1171114-6779-1brr2dk.v35g",
+    "raw": "/tmp/d-1171114-6779-5w79th.ggffl/package.tgz",
+    "rawSpec": "/tmp/d-1171114-6779-5w79th.ggffl/package.tgz",
+    "saveSpec": "file:/tmp/d-1171114-6779-5w79th.ggffl/package.tgz",
+    "fetchSpec": "/tmp/d-1171114-6779-5w79th.ggffl/package.tgz"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "/tmp/d-117115-11040-13y6vy2.4a3t/package.tgz",
-  "_spec": "/tmp/d-117115-11040-13y6vy2.4a3t/package.tgz",
-  "_where": "/tmp/apm-install-dir-117115-11040-2l1yrr.6be97",
+  "_resolved": "/tmp/d-1171114-6779-5w79th.ggffl/package.tgz",
+  "_spec": "/tmp/d-1171114-6779-5w79th.ggffl/package.tgz",
+  "_where": "/tmp/apm-install-dir-1171114-6779-1brr2dk.v35g",
   "activationCommands": {
     "atom-text-editor": [
       "hydrogen:start-local-kernel",

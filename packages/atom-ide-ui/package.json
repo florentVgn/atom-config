@@ -1,24 +1,24 @@
 {
-  "_from": "file:/tmp/d-117115-15542-wj1php.67otd/package.tgz",
-  "_id": "atom-ide-ui@0.6.0",
+  "_from": "file:/tmp/d-1171114-8324-1imrqjv.x40mf/package.tgz",
+  "_id": "atom-ide-ui@0.7.0",
   "_inBundle": false,
-  "_integrity": "sha1-bh/XsVl2D/gy+gtVYcMFUSLNlFM=",
+  "_integrity": "sha1-dXAFjYTXDxsnY5mKEemX/6w7TM0=",
   "_location": "/atom-ide-ui",
   "_phantomChildren": {},
   "_requested": {
     "type": "file",
-    "where": "/tmp/apm-install-dir-117115-15542-17s5z5l.eahc",
-    "raw": "/tmp/d-117115-15542-wj1php.67otd/package.tgz",
-    "rawSpec": "/tmp/d-117115-15542-wj1php.67otd/package.tgz",
-    "saveSpec": "file:/tmp/d-117115-15542-wj1php.67otd/package.tgz",
-    "fetchSpec": "/tmp/d-117115-15542-wj1php.67otd/package.tgz"
+    "where": "/tmp/apm-install-dir-1171114-8324-lp0m8v.xrzq9",
+    "raw": "/tmp/d-1171114-8324-1imrqjv.x40mf/package.tgz",
+    "rawSpec": "/tmp/d-1171114-8324-1imrqjv.x40mf/package.tgz",
+    "saveSpec": "file:/tmp/d-1171114-8324-1imrqjv.x40mf/package.tgz",
+    "fetchSpec": "/tmp/d-1171114-8324-1imrqjv.x40mf/package.tgz"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "/tmp/d-117115-15542-wj1php.67otd/package.tgz",
-  "_spec": "/tmp/d-117115-15542-wj1php.67otd/package.tgz",
-  "_where": "/tmp/apm-install-dir-117115-15542-17s5z5l.eahc",
+  "_resolved": "/tmp/d-1171114-8324-1imrqjv.x40mf/package.tgz",
+  "_spec": "/tmp/d-1171114-8324-1imrqjv.x40mf/package.tgz",
+  "_where": "/tmp/apm-install-dir-1171114-8324-lp0m8v.xrzq9",
   "bugs": {
     "url": "https://github.com/facebook-atom/atom-ide-ui/issues"
   },
@@ -86,10 +86,10 @@
     "eslint-plugin-prettier": "2.3.1",
     "eslint-plugin-react": "7.4.0",
     "eslint-plugin-rulesdir": "0.1.0",
-    "flow-bin": "0.59.0",
+    "flow-bin": "0.60.1",
     "jasmine-node": "1.14.5",
     "nyc": "11.2.1",
-    "prettier": "1.7.0",
+    "prettier": "1.9.1",
     "react-addons-test-utils": "15.3.1",
     "simple-text-buffer": "9.2.11",
     "yargs": "3.32.0"
@@ -113,7 +113,7 @@
     "release-transpile": "./modules/nuclide-node-transpiler/bin/release-transpile.js",
     "test": "npm run flow && npm run lint-all && ./scripts/test.js"
   },
-  "version": "0.6.0",
+  "version": "0.7.0",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [

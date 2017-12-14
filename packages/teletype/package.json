@@ -1,24 +1,24 @@
 {
-  "_from": "file:/tmp/d-117114-19521-ny1pt3.xykg/package.tgz",
-  "_id": "teletype@0.2.3",
+  "_from": "file:/tmp/d-1171114-8336-188f15k.nc0k/package.tgz",
+  "_id": "teletype@0.4.0",
   "_inBundle": false,
-  "_integrity": "sha1-mzF4zWDBoOqY6IQDMHQmqU4UAWI=",
+  "_integrity": "sha1-vyER5lo2mYKZlkyNZj6hJDDsTdg=",
   "_location": "/teletype",
   "_phantomChildren": {},
   "_requested": {
     "type": "file",
-    "where": "/tmp/apm-install-dir-117114-19521-1r6t72k.ux0w",
-    "raw": "/tmp/d-117114-19521-ny1pt3.xykg/package.tgz",
-    "rawSpec": "/tmp/d-117114-19521-ny1pt3.xykg/package.tgz",
-    "saveSpec": "file:/tmp/d-117114-19521-ny1pt3.xykg/package.tgz",
-    "fetchSpec": "/tmp/d-117114-19521-ny1pt3.xykg/package.tgz"
+    "where": "/tmp/apm-install-dir-1171114-8336-1wnj2ak.0769",
+    "raw": "/tmp/d-1171114-8336-188f15k.nc0k/package.tgz",
+    "rawSpec": "/tmp/d-1171114-8336-188f15k.nc0k/package.tgz",
+    "saveSpec": "file:/tmp/d-1171114-8336-188f15k.nc0k/package.tgz",
+    "fetchSpec": "/tmp/d-1171114-8336-188f15k.nc0k/package.tgz"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "/tmp/d-117114-19521-ny1pt3.xykg/package.tgz",
-  "_spec": "/tmp/d-117114-19521-ny1pt3.xykg/package.tgz",
-  "_where": "/tmp/apm-install-dir-117114-19521-1r6t72k.ux0w",
+  "_resolved": "/tmp/d-1171114-8336-188f15k.nc0k/package.tgz",
+  "_spec": "/tmp/d-1171114-8336-188f15k.nc0k/package.tgz",
+  "_where": "/tmp/apm-install-dir-1171114-8336-1wnj2ak.0769",
   "atomTestRunner": "./test/setup",
   "author": "",
   "bugs": {
@@ -56,7 +56,7 @@
     }
   },
   "dependencies": {
-    "@atom/teletype-client": "^0.28.2",
+    "@atom/teletype-client": "^0.30.0",
     "etch": "^0.12.6"
   },
   "deprecated": false,
@@ -65,6 +65,7 @@
     "@atom/teletype-server": "^0.17.0",
     "atom-mocha-test-runner": "^1.0.1",
     "deep-equal": "^1.0.1",
+    "standard": "^10.0.3",
     "temp": "^0.8.3"
   },
   "engines": {
@@ -85,9 +86,22 @@
     "url": "git+https://github.com/atom/teletype.git"
   },
   "scripts": {
+    "lint": "standard --verbose",
     "test": "atom --test test"
   },
-  "version": "0.2.3",
+  "standard": {
+    "env": {
+      "mocha": true
+    },
+    "globals": [
+      "atom",
+      "ErrorEvent"
+    ],
+    "ignore": [
+      "test/fixtures"
+    ]
+  },
+  "version": "0.4.0",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [
@@ -176,6 +190,7 @@
         "lib/portal-status-bar-indicator.js",
         "lib/sign-in-component.js",
         "lib/site-positions-component.js",
+        "lib/site-positions-controller.js",
         "lib/teletype-package.js",
         "node_modules/@atom/teletype-client/index.js",
         "node_modules/@atom/teletype-client/lib/buffer-proxy.js",
@@ -196,7 +211,6 @@
         "node_modules/@atom/teletype-client/lib/teletype-client.js",
         "node_modules/@atom/teletype-client/lib/teletype-client_pb.js",
         "node_modules/@atom/teletype-client/lib/teletype-crdt_pb.js",
-        "node_modules/@atom/teletype-client/lib/tether.js",
         "node_modules/@atom/teletype-crdt/index.js",
         "node_modules/@atom/teletype-crdt/lib/document-tree.js",
         "node_modules/@atom/teletype-crdt/lib/document.js",
@@ -363,7 +377,7 @@
           "test/helpers"
         ],
         "dependencies": {
-          "@atom/teletype-client": "^0.28.2",
+          "@atom/teletype-client": "^0.30.0",
           "etch": "^0.12.6"
         }
       },

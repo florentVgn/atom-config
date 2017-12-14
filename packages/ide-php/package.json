@@ -1,24 +1,24 @@
 {
-  "_from": "file:/tmp/d-117115-13119-1g6rdj4.26hl/package.tgz",
-  "_id": "ide-php@0.7.3",
+  "_from": "file:/tmp/d-1171114-8330-1hdo7nj.s7gfj/package.tgz",
+  "_id": "ide-php@0.7.4",
   "_inBundle": false,
-  "_integrity": "sha1-CJtU8W2ltDqrXlNQA8EEKVWEr0w=",
+  "_integrity": "sha1-7thvvFhA67iWfajTArZKgoBx8J0=",
   "_location": "/ide-php",
   "_phantomChildren": {},
   "_requested": {
     "type": "file",
-    "where": "/tmp/apm-install-dir-117115-13119-1qb9iln.q9hl",
-    "raw": "/tmp/d-117115-13119-1g6rdj4.26hl/package.tgz",
-    "rawSpec": "/tmp/d-117115-13119-1g6rdj4.26hl/package.tgz",
-    "saveSpec": "file:/tmp/d-117115-13119-1g6rdj4.26hl/package.tgz",
-    "fetchSpec": "/tmp/d-117115-13119-1g6rdj4.26hl/package.tgz"
+    "where": "/tmp/apm-install-dir-1171114-8330-zrighu.ic3n",
+    "raw": "/tmp/d-1171114-8330-1hdo7nj.s7gfj/package.tgz",
+    "rawSpec": "/tmp/d-1171114-8330-1hdo7nj.s7gfj/package.tgz",
+    "saveSpec": "file:/tmp/d-1171114-8330-1hdo7nj.s7gfj/package.tgz",
+    "fetchSpec": "/tmp/d-1171114-8330-1hdo7nj.s7gfj/package.tgz"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "/tmp/d-117115-13119-1g6rdj4.26hl/package.tgz",
-  "_spec": "/tmp/d-117115-13119-1g6rdj4.26hl/package.tgz",
-  "_where": "/tmp/apm-install-dir-117115-13119-1qb9iln.q9hl",
+  "_resolved": "/tmp/d-1171114-8330-1hdo7nj.s7gfj/package.tgz",
+  "_spec": "/tmp/d-1171114-8330-1hdo7nj.s7gfj/package.tgz",
+  "_where": "/tmp/apm-install-dir-1171114-8330-zrighu.ic3n",
   "atomTestRunner": "./test/runner",
   "bugs": {
     "url": "https://github.com/atom/ide-php/issues"
@@ -63,6 +63,11 @@
     "datatip": {
       "versions": {
         "0.1.0": "consumeDatatip"
+      }
+    },
+    "signature-help": {
+      "versions": {
+        "0.1.0": "consumeSignatureHelp"
       }
     }
   },
@@ -122,13 +127,13 @@
     "server-install": "rm -rf vendor && composer install --prefer-dist --no-dev && composer dump-autoload --optimize",
     "server-package": "7z a temp.tar ./vendor/* && 7z a php-ls-x.y.z.tar.gz temp.tar && rm -f temp.tar"
   },
-  "version": "0.7.3",
+  "version": "0.7.4",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [
       {
         "name": "atom-languageclient",
-        "version": "0.7.0",
+        "version": "0.7.3",
         "path": "node_modules/atom-languageclient/build/lib/main.js"
       },
       {

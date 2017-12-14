@@ -1,0 +1,10 @@
+INFO: Platform: linux
+INFO: Version Info: v0.3.0
+DEBUG: Log Path: /home/florent/.atom/packages/atom-python-run/cp.log
+DEBUG: command: ['python', '/opt/lampp/htdocs/www/PickleTeamNDI/assets/css/moche.css']
+DEBUG: file: None
+DEBUG: pause: True
+DEBUG: repl: python
+DEBUG: args: ['/opt/lampp/htdocs/www/PickleTeamNDI/assets/css/moche.css']
+INFO: return code: 1 (0x1)
+INFO: elapsed time: 0.051928

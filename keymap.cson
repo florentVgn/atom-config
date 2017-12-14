@@ -39,3 +39,6 @@
 
 'atom-workspace atom-text-editor:not([mini])':
   'ctrl-d': 'editor:duplicate-lines'
+
+'.platform-linux atom-workspace':
+  'shift-alt-c': 'color-picker:open'

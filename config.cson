@@ -4,13 +4,16 @@
   "atom-ide-ui":
     use:
       "atom-ide-diagnostics-ui": false
+  "color-picker":
+    abbreviateValues: true
+    automaticReplace: true
+    randomColor: false
   core:
     audioBeep: false
     closeDeletedFileTabs: true
     closeEmptyWindows: false
     openEmptyEditorOnStart: false
     projectHome: "/home/florent/Development"
-    restorePreviousWindowsOnStart: "no"
     telemetryConsent: "no"
     themes: [
       "glacier-dark-ui"
@@ -26,5 +29,10 @@
     userId: "d48158ee-4376-4a32-9721-d56a9c6ac0f1"
   "linter-ui-default":
     showPanel: true
+  "sass-autocompile":
+    indentType: "Tab"
+    indentWidth: 4
+  "tree-view":
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
