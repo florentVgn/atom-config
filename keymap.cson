@@ -42,3 +42,6 @@
 
 '.platform-linux atom-workspace':
   'shift-alt-c': 'color-picker:open'
+
+'atom-text-editor:not([mini])':
+  'ctrl-shift-h': 'hydrogen:run-and-move-down'

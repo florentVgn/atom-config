@@ -12,7 +12,13 @@
     audioBeep: false
     closeDeletedFileTabs: true
     closeEmptyWindows: false
+    disabledPackages: [
+      "language-gfm"
+    ]
     openEmptyEditorOnStart: false
+    packagesWithKeymapsDisabled: [
+      "Hydrogen"
+    ]
     projectHome: "/home/florent/Development"
     telemetryConsent: "no"
     themes: [
